@@ -42,7 +42,7 @@ Dataset is not included due to size limitations.
 ## Future Improvements
 
 * Apply feature scaling and tuning
-* Improve model generalization
+* Improve model generalisation
 * Deploy model for real-time predictions
 
 ## Conclusion
